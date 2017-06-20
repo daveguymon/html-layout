@@ -1,0 +1,55 @@
+.topHeader {
+    width: 100vw;
+    height: 14.29vh;
+    background: #dddddd;
+    padding-top: 2.5vh;
+}
+
+.logo {
+    background: #4A90E2;
+    height: 10vh;
+    width: 10vh;
+    margin-left: 4vw;
+    
+    
+}
+
+.content {
+    width: 100vw;
+    height: 28.58vh;
+    background: white;
+}
+
+.blueBar {
+    width: 100vw;
+    height: 14.29vh;
+    background: #4A90E2;
+}
+
+.seafoamBar {
+    width: 100vw;
+    height: 14.29vh;
+    background: #50E3C2;
+}
+
+.limeBar {
+    width: 100vw;
+    height: 14.29vh;
+    background: #B8E986;
+}
+
+.lemonBar {
+    width: 100vw;
+    height: 14.29vh;
+    background: #F8E71C;
+}
+
+.content p {
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-top:  5vh;
+    font-size: 2.5vh;
+    font-family:sans-serif;
+    color: grey;
+    line-height: 3vh
+}
